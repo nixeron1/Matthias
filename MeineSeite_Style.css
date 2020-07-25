@@ -1,0 +1,64 @@
+
+/*Html stylen*/ 
+html
+{
+    font-size: 40px;
+    
+}
+
+/*NAV stylen*/ 
+
+nav 
+
+{
+    padding-top: 4rem;
+    font-weight: 30;
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSD_XWlrCImKhyiMqFE30wKqHljMyXEdvUoSg&usqp=CAU");
+  
+
+}
+nav h1,p
+{
+    
+    size: 0.8rem;
+   
+}
+
+
+/*BODY stylen*/
+
+body
+{
+    padding-bottom: 4rem;
+}
+body section
+{
+    margin:0;
+    padding: 0.2rem;
+    background-color: rgba(35, 109, 109, 0.295);
+    color: black;
+}
+.blacklivesmatter {
+    position: fixed;
+    height:  4rem;
+    top:      0;
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+    width: 100%;
+   
+  }
+
+  h1 { color: rgb(10, 45, 99); }
+
+  footer
+  {
+      position: fixed;
+      height: 3rem;
+      background-color: blue;
+      color: white;
+      bottom: 0;
+      width: 100%;
+
+  }
